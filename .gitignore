@@ -1,0 +1,4 @@
+/src/Resources/public/administration/*.hot-update.js
+/src/Resources/app/administration/src/test/e2e/node_modules
+phpstan.neon
+vendor
